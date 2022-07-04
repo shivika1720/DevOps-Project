@@ -11,7 +11,7 @@ function LoginH () {
         <>
             <Nav />
             <div className='Main'>
-                <div className=" Hello login">
+                <div className="login">
                     <h1 className='form-heading'>Login</h1> 
                     <div className='button-container'>
                         <Link to='/'> <button id ='Customer3'>Customer</button> </Link>
